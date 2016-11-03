@@ -56,6 +56,7 @@ public class CountYourCousins {
                     continue whileloop;
                 }
             }
+            
             else {
                 System.out.println(0);
                 continue whileloop;
