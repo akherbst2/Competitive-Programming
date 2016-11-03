@@ -44,7 +44,6 @@ public class CountYourCousins {
                     keyNode = node;
                 }
             }
-
             Node parent = null;
             Node grandParent = null;
             if(parents.containsKey(keyNode)) {
