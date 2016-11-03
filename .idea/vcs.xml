@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ACPC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnnoyingNeighbor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BigTruck4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChangeForADollar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HouseRobbing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NAPC7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PCS-Problems/FibbedConversions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PCS-Problems/MajorOrMinor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PCS-Problems/RocketRoyale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TransportationDelegation" vcs="Git" />
+  </component>
+</project>
